@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Page Title</title>
+</head>
+<body>
+    <h1>Your H1 Title Here</h1>
+
+    <!-- Embedded Image -->
+    <img src="your-image-url.jpg" alt="Description of the image">
+
+    <!-- Three Links -->
+    <a href="https://example.com" target="_blank">Link 1 (opens in new tab)</a>
+    <br>
+    <a href="https://example2.com"><strong>Link 2 (bold)</strong></a>
+    <br>
+    <a href="#">Link 3 (placeholder)</a>
+</body>
+</html>
